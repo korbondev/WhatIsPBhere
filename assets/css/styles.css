@@ -35,10 +35,8 @@ p {
 }
 
 footer p {
-  position: absolute;
-  bottom: 5px;
   text-align: center;
-  width: 100%;
+  padding-top: 50px;
 }
 
 /* Background */
